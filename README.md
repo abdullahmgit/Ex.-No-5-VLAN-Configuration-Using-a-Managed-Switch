@@ -60,6 +60,7 @@ Switch(config-if-range)# switchport access vlan 20<br>
 Switch(config-if-range)# exit<br>
 ________________________________________
 # Output (Screenshots)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7dcbf994-2b76-4e75-8b35-92b61f06fd2f" />
 •	VLAN configuration on switch<br>
 •	PC IP settings<br>
 •	Successful ping between PCs in the same VLAN<br>
